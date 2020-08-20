@@ -15,7 +15,8 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<java.version>14</java.version>
+	<!--  	<java.version>1.8</java.version>  Se modifica por la versión 1.8 para desplegar en Heroku, en teoría esa es la versión que se ocupa-->
+	<java.version>14</java.version> 
 	</properties>
 
 	<dependencies>
